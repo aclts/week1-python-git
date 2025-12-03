@@ -4,3 +4,4 @@ __pychache__/
 *.pyc
 squares.csv
 squares_pd.csv
+.vscode
